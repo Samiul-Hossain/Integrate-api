@@ -11,4 +11,4 @@ npm run start <br/>
 cd server <br/>
 npm run start <br/>
 <br/>
-disclaimer: please create/connect to your own postgresql database
+disclaimer: please create/connect to your own postgresql database. The queries you will need to write are given in a file named database. Connect to your database using the connection similar to mine (db_connection.js)
