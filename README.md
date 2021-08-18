@@ -5,7 +5,7 @@
 As you can see, I have integrated an API with a frontend template available at https://simple.cruip.com/
 My api is created using node, express and postgresql.
 
-#Starting Script
+### Starting Script
 
 npm run start
 cd server
